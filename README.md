@@ -20,11 +20,10 @@ Supports **English & 中文** UI/answers.
 5. Generate a concise answer + show citations
 
 ## 🖥️ Demo
-English:
-![English Demo]
+## Demo
+![English Demo](ScreenShot_2025-12-18_123909_692.png)
+![Chinese Demo](ScreenShot_2025-12-18_123925_522,png)
 
-中文:
-![Chinese Demo]
 
 (Optional) GIF:
 ![Demo GIF]
