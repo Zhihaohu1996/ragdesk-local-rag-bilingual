@@ -1,0 +1,8 @@
+streamlit>=1.30
+chromadb>=0.5
+sentence-transformers>=2.6
+pypdf>=4.0
+python-docx>=1.1
+transformers>=4.41
+torch>=2.1
+sentencepiece>=0.2
