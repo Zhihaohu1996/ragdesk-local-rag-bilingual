@@ -20,13 +20,14 @@ Supports **English & 中文** UI/answers.
 5. Generate a concise answer + show citations
 
 ## 🖥️ Demo
-## Demo
-![English Demo](ScreenShot_2025-12-18_123909_692.png)
-![Chinese Demo](ScreenShot_2025-12-18_123925_522,png)
+English:
+![English Demo](assets/demo_en.png)
 
+中文:
+![Chinese Demo](assets/demo_zh.png)
 
 (Optional) GIF:
-![Demo GIF]
+![Demo GIF](assets/demo.gif)
 
 ## 🚀 Quick Start (Windows)
 ### Option A: Double-click
